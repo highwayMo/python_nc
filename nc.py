@@ -1,5 +1,9 @@
 #-*- coding:utf-8 -*-
-
+# @Time    : 2020-05-14 14:45
+# @Author  : nice0e3
+# @FileName: python_nc
+# @Software: PyCharm
+# @Blog    ：https://www.cnblogs.com/nice0e3/
 import socket
 import sys
 import subprocess
